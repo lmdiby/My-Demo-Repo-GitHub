@@ -1,1 +1,2 @@
 This is the Demo file
+adding some info about that crazy defect DE12
