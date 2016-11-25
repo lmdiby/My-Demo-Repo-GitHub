@@ -4,3 +4,4 @@ Here’s some more crazy stuff about DE12
 Darnit- Forgot to code TA48.  K, well, here it is. 
 One more piece of code for TA48
 TGIF Man….TGIF!!! US66 TA48
+Some code fix for DE49
